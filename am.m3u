@@ -1,72 +1,45 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="ARM",National Geographic Wild
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
-#EXTINF:-1 tvg-id="5TV.am" tvg-logo="https://i.imgur.com/jOGZZDo.png" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="5TV.am" tvg-logo="https://i.imgur.com/jOGZZDo.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",5 ԹԻՎԻ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s6/index.m3u8
-#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="Movies",ATV Kinoman HD
+#EXTINF:-1 tvg-id="ATVKinoman.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="ARM",ATV Kinoman HD
 http://stream02.vnet.am/Kinoman/mono.m3u8
-#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="https://i.imgur.com/RlYJUH4.png" group-title="News",First Channel News (1080p)
+#EXTINF:-1 tvg-id="FirstChannelNews.am" tvg-logo="https://i.imgur.com/RlYJUH4.png" group-title="ARM",First Channel News (1080p)
 https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8
-#EXTINF:-1 tvg-id="SONGTVArmenia.am" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="Music",SONGTV Armenia (720p)
+#EXTINF:-1 tvg-id="SONGTVArmenia.am" tvg-logo="https://i.imgur.com/nM7LbmV.png" group-title="ARM",SONGTV Armenia (720p)
 https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",Viju Sport (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s38/index.m3u8
-#EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",АTV ԱԹԻՎԻ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATV.am" tvg-logo="https://i.imgur.com/xrqFEou.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",АTV ԱԹԻՎԻ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s8/index.m3u8
-#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета Евро
+#EXTINF:-1 tvg-id="RTRPlanetaEurope.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="ARM",РТР Планета Евро
 https://player.smotrim.ru/iframe/stream/live_id/4941
-#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="General",РТР Планета СНГ
+#EXTINF:-1 tvg-id="RTRPlanetaCIS.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png" group-title="ARM",РТР Планета СНГ
 https://player.smotrim.ru/iframe/stream/live_id/63253
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱԶԱՏՈՒԹՅՈՒՆ ԹԻՎԻ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s3/index.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="General",Առաջին ալիք (1080p)
+#EXTINF:-1 tvg-id="Armenia1.am" tvg-logo="https://i.imgur.com/HIwJ4lc.png" group-title="ARM",Առաջին ալիք (1080p)
 https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ArmeniaPremium.am" tvg-logo="https://i.imgur.com/removed.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ 1 ՊՐԵՄԻՈՒՄ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s83/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaHayKino.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ArmeniaHayKino.am" tvg-logo="https://i.imgur.com/removed.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԱՐՄԵՆԻԱ-ՀԱՅԿԻՆՈ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s22/index.m3u8
-#EXTINF:-1 tvg-id="DAR21.am" tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԴԱՐ21 (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="DAR21.am" tvg-logo="https://i.imgur.com/F7YP7cX.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԴԱՐ21 (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s10/index.m3u8
-#EXTINF:-1 tvg-id="YerkirMedia.am" tvg-logo="https://i.imgur.com/KqkOz6H.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԵՐԿԻՐ ՄԵԴԻԱ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="YerkirMedia.am" tvg-logo="https://i.imgur.com/KqkOz6H.png" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԵՐԿԻՐ ՄԵԴԻԱ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s7/index.m3u8
-#EXTINF:-1 tvg-id="ATVTavaTV.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="Lifestyle" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԹԱՎԱ ԹԻՎԻ (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="ATVTavaTV.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="ARM" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԹԱՎԱ ԹԻՎԻ (480p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s53/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԼԱՎՖՀԱՔ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s48/index.m3u8
-#EXTINF:-1 tvg-id="ATVKhaghaliqTV.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԽԱՂԱԼԻՔ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:-1 tvg-id="KentronTV.am" tvg-logo="https://i.imgur.com/eCaxBFn.png" group-title="General" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ԿԵՆՏՐՈՆ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s5/index.m3u8
-#EXTINF:-1 tvg-id="ATVHayTV.am" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Atvnew.png/revision/latest/scale-to-width-down/512" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՀԱՅ ԹԻՎԻ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s73/index.m3u8
-#EXTINF:-1 tvg-id="NorHayastanTV.am" tvg-logo="https://i.imgur.com/QH7VytI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՆՈՐ ՀԱՅԱՍՏԱՆ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s12/index.m3u8
-#EXTINF:-1 tvg-id="ShoghakatTV.am" tvg-logo="https://i.imgur.com/U6Bs4wt.png" group-title="Religious" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՇՈՂԱԿԱԹ (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s13/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaJanTV.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Music" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՋԱՆ ԹԻՎԻ (U3) (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaSinemaks.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Movies" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՍԻՆԵՄԱՆ (U6) (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s66/index.m3u8
-#EXTINF:-1 tvg-id="ArmeniaTownTownik.am" tvg-logo="https://i.imgur.com/removed.png" group-title="Kids" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148",ՏՈՒՆՏՈՒՆԻԿ (U5) (480p) [Not 24/7]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML,like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s46/index.m3u8
+http://ott-cdn.ucom.am/s35/index.m3u8
 #EXTM3U url-tvg="http://epg.uspeh.sbs/21.xml" x-tvg-url="http://epg.uspeh.sbs/21-light.xml"
 #EXTINF:0 CUID="116" number="1" tvg-id="iptvxone:pervy" tvg-name="iptvxone:pervy" arc-timeshift="504" arc-time="504" catchup="shift" catchup-days="21" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/1200px-1канал-5.svg (1).png" group-title="Информационные",OPT
 http://ost.uspeh.sbs/va2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly8xMjcuMC4wLjE0Njo4ODg3LzgxMjAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjYwZjIyZGQ5IiwicCI6IjYwZjIyZGQ5ZmJlYjA3ZTkiLCJjIjoiMTE2IiwidCI6IjNmNDI3ZTc4NjNiMDBiNDdiYWU5ZjI0ZTg5YzY2N2FlIiwiZCI6IjIxMDkzMSIsInIiOiIyMTU1NDciLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovLzE5NS4yMTEuMjcuMTQ5Ojg4ODcvODEyMC9pbmRleC5tM3U4P3R/index.m3u8
